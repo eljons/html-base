@@ -1,7 +1,5 @@
 {
-  // Your current package.json
   "scripts": {
-    // Your current package.json scripts
     "preinstall": "npx npm-force-resolutions"
   },
   "resolutions": {
